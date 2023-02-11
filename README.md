@@ -12,7 +12,7 @@
 
 ### Connect with me:
 - <a href="https://t.me/sasha_mosyagina" target="blank">Telegram</a>
-- <a href="a.s.mosyagina@gmail.com" target="blank">E-mail</a>
+- <a href="mailto:a.s.mosyagina@gmail.com" target="blank">E-mail</a>
 
 
 ### Technologies:
