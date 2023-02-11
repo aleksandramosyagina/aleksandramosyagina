@@ -8,7 +8,7 @@
 
 - 💻 I’m currently working on JS, HTML, CSS
 - 🎓 I’m currently learning ReactJS and JS improvements
-- 💬 Ask me about tech, investments, recycling and painting 
+- 💬 Ask me about programming, investments, recycling and studying English 
 
 ### Connect with me:
 - <a href="https://t.me/sasha_mosyagina" target="blank">Telegram</a>
