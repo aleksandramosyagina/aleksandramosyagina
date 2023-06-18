@@ -8,6 +8,7 @@
 
 - 💻 I’m currently working on JS, HTML, CSS
 - 🎓 I’m currently learning ReactJS and JS improvements
+- 📖 I have a <a href="https://t.me/frontend_queen" target="blank">channel</a> about frontend development
 - 💬 Ask me about programming, investments, recycling and studying English 
 
 ### Connect with me:
